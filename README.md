@@ -1,5 +1,5 @@
 # fondecyt-11200826
-Bitacora de avances y reporte de resultados.
+[Bitacora de avances y reporte de resultados.](https://github.com/jfzo/fondecyt-11200826/wiki)
 
 ## TODO
 
